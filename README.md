@@ -1,4 +1,4 @@
-# Sales-Forecasting-And-Customer-Analytic-Dashboard
+# Sales-Forecasting-And-Customer-Segmentation-Dashboard
 This project analyzes transactional sales data from a U.S.-based coffee company (2023–2024) to uncover revenue trends, customer purchasing behavior, and future sales projections.
 
 The dashboard leverages Power BI’s data modeling and forecasting capabilities to deliver actionable insights that support strategic decision-making across sales performance, customer segmentation, and regional analysis.
